@@ -1,0 +1,18 @@
+.Navbar{
+    display: flexbox;
+    flex-direction: row;
+    background-color: rgb(34, 34, 34);
+    height: 5vw;
+    color: whitesmoke;
+    font-size: 3.5vw;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 85vw;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
